@@ -1,3 +1,8 @@
+/*
+ * Copyright OpenSearch Contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /**
  * Mock implementation for UUID package
  * This avoids the need for crypto.getRandomValues() in tests

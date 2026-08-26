@@ -1,3 +1,8 @@
+/*
+ * Copyright OpenSearch Contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import { PROCESSOR_TYPE } from '../../../common';
 import { generateId } from '../../utils';
 import { Processor } from '../processor';

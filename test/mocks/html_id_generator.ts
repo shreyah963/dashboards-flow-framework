@@ -1,3 +1,8 @@
+/*
+ * Copyright OpenSearch Contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /**
  * Mock implementation of EUI's htmlIdGenerator
  * This avoids the dependency on UUID and crypto.getRandomValues()
